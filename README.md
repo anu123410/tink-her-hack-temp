@@ -2,29 +2,29 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [AI BASED WASTE DETECTION SYSTEM] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [SREEZAA]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [SREESHMA] - [JYOTHI ENGINEERING COLLEGE ]
+- Member 2: [TREASA] - [JYOTHI ENGINEERING COLLEGE]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://drive.google.com/file/d/12nC5k8qZxIwGfkMi82gyVfp8TT0E9OBh/view?usp=sharing
 
 ### Project Description
-[2-3 lines about what your project does]
+[This project detects the presence of waste using an ultrasonic sensor. When an object approaches the smart bin, the sensor measures the distance and triggers a servo to open the lid]
 
 ### The Problem statement
-[What problem are you solving?]
+[Design and implement a smart dustbin that automatically detects the presence of waste using an ultrasonic sensor]
 
 ### The Solution
-[How are you solving it?]
+[An AI-based smart dustbin with an ultrasonic sensor detects approaching waste. Servo motors automatically open the lid enabling touchless and efficient waste management. ]
 
----
+
 
 ## Technical Details
 
@@ -37,19 +37,23 @@
 - Tools used: [e.g., VS Code, Git, Docker]
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components: [ARDUINO UNO,SERVO MOTOR,ULTRASONIC SENSOR]
+- Specifications: [Arduino UNO – 5V operation, controls sensors and actuators
+Ultrasonic Sensor (HC-SR04) – Detection range: 2 cm – 400 cm, accuracy ±3 mm
+Servo Motor – 0°–180° rotation for lid operation]
+- Tools required: [Computer / Laptop – For Arduino IDE & Tinkercad simulation
+Arduino IDE Software – To write and upload code to Arduino UNO
+Tinkercad Circuits (optional) – For simulation of the system]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Automatic Waste Detection]
+- Feature 2: [Touchless Lid Operation]
+- Feature 3: [Fast Response]
+- Feature 4: [Hygienic & Efficient]
 
 ---
 
@@ -70,11 +74,32 @@ List the key features of your project:
 ### For Hardware:
 
 #### Components Required
-[List all components needed with specifications]
+[Arduino UNO – 5V operation, controls sensors and actuators
+Ultrasonic Sensor (HC-SR04) – Detection range: 2 cm – 400 cm, accuracy ±3 mm
+Servo Motor – 0°–180° rotation for lid operation]
 
 #### Circuit Setup
-[Explain how to set up the circuit]
-
+[Ultrasonic Sensor VCC
+5V
+Power
+Ultrasonic Sensor GND
+GND
+Ground
+Ultrasonic TRIG
+Pin 9
+Digital Output
+Ultrasonic ECHO
+Pin 10
+Digital Input
+Servo Motor Signal
+Pin 6
+Control Lid
+Servo Motor VCC
+5V
+Power
+Servo Motor GND
+GND
+Ground]
 ---
 
 ## Project Documentation
@@ -83,7 +108,7 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -96,7 +121,8 @@ List the key features of your project:
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
+<img width="1366" height="768" alt="2026-02-14" src="https://github.com/user-attachments/assets/1f03252f-4362-418c-8a94-ee04d13d0355" />
+
 *Explain your system architecture - components, data flow, tech stack interaction*
 
 **Application Workflow:**
