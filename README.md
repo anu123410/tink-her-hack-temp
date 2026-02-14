@@ -107,8 +107,8 @@ Ground]
 ### For Software:
 
 #### Screenshots (Add at least 3)
-
-(Add screenshot 1 here with proper name)
+<img width="1366" height="768" alt="2026-02-14 (3)" src="https://github.com/user-attachments/assets/714e5031-9094-4a75-ac6b-0a58e1422161" />
+SCHEMATIC DIAGRAM
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
